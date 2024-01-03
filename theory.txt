@@ -1,0 +1,22 @@
+Way of writting javascript
+
+1. Inline (-------)
+2. Internal
+3. External
+
+
+Javascript Variable
+
+x = 10;
+y = 20;
+
+x+y = 30;
+
+1. General Way
+
+
+
+Home Task====>
+
+1. Variable
+2. Operator
