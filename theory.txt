@@ -1,3 +1,7 @@
+
+ES5, ES6
+
+
 Way of writting javascript
 
 1. Inline (-------)
@@ -13,10 +17,45 @@ y = 20;
 x+y = 30;
 
 1. General Way
-
+2. let
+3. var
+4. const
 
 
 Home Task====>
 
 1. Variable
 2. Operator
+
+============Operator=========
+
+1. Arithmetic Operator (+, -, *, /, %, ++, --)
+2. Assignment Operator (=, +=, -=)
+3. Logical Operator (||, &&, !)
+4. Compariosion Operator/Relational Operator (<, >, <=, >=, !=, !==, ==, ===)
+
+=========Data Type===========
+
+My name is: Bablu => string
+My age is: 45 => integer (Number)
+My balance in bank account: 3456789345.48 (float/double)
+
+boolean = true/false (1, 0)
+object = {name: bablu, age: 45, balance: 12345678.56}, [12, 13, 40]
+
+=========Condition==========
+
+if(Condition){
+    Statement......
+}
+elseif(condition){
+    Statement......
+}
+elseif(condition){
+    Statement.....
+}
+else{
+    Statement........
+}
+
+Result of if else condition => true/false
